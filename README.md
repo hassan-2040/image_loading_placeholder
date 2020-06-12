@@ -8,6 +8,9 @@ Implements custom loading placeholder and custom Fade In Animation (using Animat
 
 The fade in/out transition time and the loading transition time are both customizable.
 
+![](image_loading_placeholder.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
