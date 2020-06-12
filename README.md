@@ -1,6 +1,10 @@
-# imageloadingplaceholder
+# Image Loading placeholder
 
-Something to show while image is downloading
+Something to show while image is downloading.
+
+Image fades in once it has been loaded.
+
+Implements custom loading placeholder and custom Fade In Animation (using AnimationController) to fade in the image.
 
 ## Getting Started
 
